@@ -8,7 +8,6 @@
 .buildlog/
 .history
 .svn/
-*.g.dart
 *.mocks.dart
 applicationDocumentsPath
 hive_testing_path
@@ -77,3 +76,6 @@ build/
 !**/ios/**/default.pbxuser
 !**/ios/**/default.perspectivev3
 /coverage/
+
+# FVM Version Cache
+.fvm/

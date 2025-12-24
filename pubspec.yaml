@@ -4,7 +4,7 @@ version: 0.0.9
 homepage: https://github.com/chatwoot/chatwoot-flutter-sdk
 
 environment:
-  sdk: "^3.5.3"
+  sdk: "^3.10.0"
 
 dependencies:
   flutter:
